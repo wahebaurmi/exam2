@@ -1,0 +1,87 @@
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+/*banner section*/
+.banner {
+  background: url(../img/banner-bg.png) no-repeat;
+  background-size: cover;
+}
+.banner-text {
+  color: white;
+}
+.banner-text h1 {
+  padding-top: 160px;
+}
+.banner-text p {
+  font-size: 30px;
+}
+.banner-btn {
+  margin: 120px 330px;
+  color: white;
+  background-color: #99c50a;
+  height: 75px;
+  width: 40%;
+  border-radius: 10%;
+  font-size: 20px;
+  border-color: 1px solid white;
+}
+.work {
+}
+.work-img img {
+  padding-top: 120px;
+}
+.work-text h1 {
+  padding-top: 100px;
+  color: #515151;
+}
+.work-text h5 {
+  color: #515151;
+  padding-top: 60px;
+}
+.row-one {
+  margin-top: 200px;
+  margin-bottom: 150px;
+}
+.row-one-one {
+  background-color: #e2f8ff;
+}
+.row-two-two {
+  background-color: #f5f9eb;
+}
+
+.w-one h4 {
+  color: #515151;
+}
+.w-one p {
+  color: #515151;
+  padding-top: 20px;
+}
+.w-two h4 {
+  color: #515151;
+}
+.w-two p {
+  color: #515151;
+  padding-top: 20px;
+}
+.work-btn {
+  color: white;
+  background-color: #26a6d1;
+  height: 35px;
+  width: 70%;
+  border-radius: 10%;
+  font-size: 20px;
+  border-color: 1px solid white;
+}
+.card-text {
+  color: #515151;
+}
+.card-btn {
+  color: black;
+  background-color: white;
+  height: 35px;
+  width: 30%;
+  border-radius: 10%;
+  font-size: 20px;
+  border-color: 1px solid black;
+}
